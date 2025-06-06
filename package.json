@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Vinayak-Chv/NodeExpress.js/issues"
   },
-  "homepage": "https://github.com/Vinayak-Chv/NodeExpress.js#readme"
+  "homepage": "https://github.com/Vinayak-Chv/NodeExpress.js#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
