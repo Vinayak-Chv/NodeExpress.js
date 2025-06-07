@@ -21,6 +21,6 @@
     "nodemon": "^3.1.10"
   },
   "dependencies": {
-    "lodash": "^4.17.21"
+    "express": "^5.1.0"
   }
 }
