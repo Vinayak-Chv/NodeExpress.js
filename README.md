@@ -5,5 +5,7 @@ NODE.JS:
 1st Day - Module, Path Module, App, Fs Sync, Globals, OS Module
 2nd Day - Fs Async, HTTP Module
 3rd Day - Event Loop, Event Loop Blocking Code, Promises, Events, Stream, Stream HTTP Example
+4th Day - Http :- Basic, Headers, Request Object
 
 EXPRESS.JS:
+4th Day - Basics
