@@ -10,3 +10,4 @@ NODE.JS:
 EXPRESS.JS:
 4th Day - Express Basics
 5th Day - App Example, Express App Example, JSON Basics, Params & Query String, Route Params 
+6th Day - Params & Query String{Params (Extra Info), Query String, Additional Params and Query String Info}, Middleware (App.use Method usage, Multiple Middleware)
